@@ -1,0 +1,12 @@
+{
+  "version": "9.1.9",
+  "build_date": "2026-11-16T18:41:02.335988",
+  "description": "✨ Новые возможности:\n• in-app auto-update via Google Drive (antkeep.app@gmail.com)\n\n🐛 Исправления:\n• add --status flag to release.py",
+  "platforms": {
+    "android": "https://github.com/antkeepapp/cobible-releases/releases/download/v9.1.9/CoBible-v9.1.9-android.apk",
+    "windows": "https://drive.google.com/uc?export=download&id=119Ym0bLVcl2bq88f9UuN4iwKLxO9JAKW",
+    "macos": "",
+    "ios": ""
+  },
+  "download_url": ""
+}
