@@ -6,7 +6,7 @@
     "android": "https://github.com/antkeepapp/cobible-releases/releases/download/v9.1.9/CoBible-v9.1.9-android.apk",
     "windows": "https://github.com/antkeepapp/cobible-releases/releases/download/v9.1.9/CoBible-v9.1.9-windows.zip",
     "macos": "",
-    "ios": ""
+    "ios": "https://github.com/antkeepapp/cobible-releases/releases/download/v9.1.9/CoBible-v9.1.9-ios.ipa"
   },
   "download_url": ""
 }
