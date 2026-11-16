@@ -1,12 +1,16 @@
 {
-  "version": "9.1.9",
-  "build_date": "2026-11-16T18:41:02.335988",
-  "description": "✨ Новые возможности:\n• in-app auto-update via Google Drive (antkeep.app@gmail.com)\n\n🐛 Исправления:\n• add --status flag to release.py",
+  "version": "9.1.10",
+  "build_date": "2026-11-17T01:24:58.667375",
+  "description": "### 🇬🇧 English\n- **Podcasts:** Added playback speed control (0.75×, 1.0×, 1.25×, 1.5×, 1.75×, 2.0×) in both the expanded player and mini player with automatic settings persistence.\n\n### 🇷🇺 Русский\n- **Подкасты:** Добавлена возможность выбора скорости воспроизведения (0.75×, 1.0×, 1.25×, 1.5×, 1.75×, 2.0×) в развернутом плеере и мини-плеере с сохранением в настройках.",
   "platforms": {
-    "android": "https://github.com/antkeepapp/cobible-releases/releases/download/v9.1.9/CoBible-v9.1.9-android.apk",
+    "android": "https://github.com/antkeepapp/cobible-releases/releases/download/v9.1.10/CoBible-v9.1.10-android.apk",
     "windows": "https://github.com/antkeepapp/cobible-releases/releases/download/v9.1.9/CoBible-v9.1.9-windows.zip",
     "macos": "https://github.com/antkeepapp/cobible-releases/releases/download/v9.1.9/CoBible-v9.1.9-macos.dmg",
     "ios": "https://github.com/antkeepapp/cobible-releases/releases/download/v9.1.9/CoBible-v9.1.9-ios.ipa"
   },
-  "download_url": ""
+  "download_url": "",
+  "descriptions": {
+    "en": "- **Podcasts:** Added playback speed control (0.75×, 1.0×, 1.25×, 1.5×, 1.75×, 2.0×) in both the expanded player and mini player with automatic settings persistence.",
+    "ru": "- **Подкасты:** Добавлена возможность выбора скорости воспроизведения (0.75×, 1.0×, 1.25×, 1.5×, 1.75×, 2.0×) в развернутом плеере и мини-плеере с сохранением в настройках."
+  }
 }
