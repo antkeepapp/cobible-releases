@@ -1,16 +1,16 @@
 {
-  "version": "9.1.10",
-  "build_date": "2026-11-17T01:24:58.667375",
-  "description": "### 🇬🇧 English\n- **Podcasts:** Added playback speed control (0.75×, 1.0×, 1.25×, 1.5×, 1.75×, 2.0×) in both the expanded player and mini player with automatic settings persistence.\n\n### 🇷🇺 Русский\n- **Подкасты:** Добавлена возможность выбора скорости воспроизведения (0.75×, 1.0×, 1.25×, 1.5×, 1.75×, 2.0×) в развернутом плеере и мини-плеере с сохранением в настройках.",
+  "version": "9.1.11",
+  "build_date": "2026-11-17T21:56:41.271861",
+  "description": "### 🇬🇧 English\n- **Podcasts:** Added playback speed control (0.75×, 1.0×, 1.25×, 1.5×, 1.75×, 2.0×) in both the expanded player and mini player with automatic settings persistence.\n- **Navigation:** Fixed bottom navigation bar layout on small screens (iPhone 12 mini, iPhone SE, compact Android devices) with adaptive typography, tighter tracking, and clamped text scaling so tabs like \"Подкасты\" never wrap or clip.\n- **CI/CD:** Fixed iOS and macOS release synchronization with latest codebase.\n\n### 🇷🇺 Русский\n- **Подкасты:** Добавлена возможность выбора скорости воспроизведения (0.75×, 1.0×, 1.25×, 1.5×, 1.75×, 2.0×) в развернутом плеере и мини-плеере с сохранением в настройках.\n- **Навигация:** Исправлена нижняя панель навигации для компактных экранов (iPhone 12 mini, iPhone SE, небольшие Android) — внедрены адаптивный размер шрифта, оптимизированный кернинг и защита от переноса строк, благодаря чему вкладки (включая «Подкасты») всегда аккуратно помещаются в одну строку без обрезания.\n- **CI/CD:** Исправлена синхронизация сборок iOS и macOS со всеми последними изменениями кода.",
   "platforms": {
-    "android": "https://github.com/antkeepapp/cobible-releases/releases/download/v9.1.10/CoBible-v9.1.10-android.apk",
-    "windows": "https://github.com/antkeepapp/cobible-releases/releases/download/v9.1.10/CoBible-v9.1.10-windows.zip",
+    "android": "https://github.com/antkeepapp/cobible-releases/releases/download/v9.1.11/CoBible-v9.1.11-android.apk",
+    "windows": "https://github.com/antkeepapp/cobible-releases/releases/download/v9.1.11/CoBible-v9.1.11-windows.zip",
     "macos": "https://github.com/antkeepapp/cobible-releases/releases/download/v9.1.9/CoBible-v9.1.9-macos.dmg",
     "ios": "https://github.com/antkeepapp/cobible-releases/releases/download/v9.1.10/CoBible-v9.1.10-ios.ipa"
   },
   "download_url": "",
   "descriptions": {
-    "en": "- **Podcasts:** Added playback speed control (0.75×, 1.0×, 1.25×, 1.5×, 1.75×, 2.0×) in both the expanded player and mini player with automatic settings persistence.",
-    "ru": "- **Подкасты:** Добавлена возможность выбора скорости воспроизведения (0.75×, 1.0×, 1.25×, 1.5×, 1.75×, 2.0×) в развернутом плеере и мини-плеере с сохранением в настройках."
+    "en": "- **Podcasts:** Added playback speed control (0.75×, 1.0×, 1.25×, 1.5×, 1.75×, 2.0×) in both the expanded player and mini player with automatic settings persistence.\n- **Navigation:** Fixed bottom navigation bar layout on small screens (iPhone 12 mini, iPhone SE, compact Android devices) with adaptive typography, tighter tracking, and clamped text scaling so tabs like \"Подкасты\" never wrap or clip.\n- **CI/CD:** Fixed iOS and macOS release synchronization with latest codebase.",
+    "ru": "- **Подкасты:** Добавлена возможность выбора скорости воспроизведения (0.75×, 1.0×, 1.25×, 1.5×, 1.75×, 2.0×) в развернутом плеере и мини-плеере с сохранением в настройках.\n- **Навигация:** Исправлена нижняя панель навигации для компактных экранов (iPhone 12 mini, iPhone SE, небольшие Android) — внедрены адаптивный размер шрифта, оптимизированный кернинг и защита от переноса строк, благодаря чему вкладки (включая «Подкасты») всегда аккуратно помещаются в одну строку без обрезания.\n- **CI/CD:** Исправлена синхронизация сборок iOS и macOS со всеми последними изменениями кода."
   }
 }
