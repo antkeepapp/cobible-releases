@@ -5,8 +5,8 @@
   "platforms": {
     "android": "https://github.com/antkeepapp/cobible-releases/releases/download/v9.1.16/CoBible-v9.1.16-android.apk",
     "windows": "https://github.com/antkeepapp/cobible-releases/releases/download/v9.1.16/CoBible-v9.1.16-windows.zip",
-    "macos": "https://github.com/antkeepapp/cobible-releases/releases/download/v9.1.9/CoBible-v9.1.9-macos.dmg",
-    "ios": "https://github.com/antkeepapp/cobible-releases/releases/download/v9.1.16/CoBible-v9.1.16-ios.ipa"
+    "macos": "https://github.com/antkeepapp/cobible-releases/releases/download/v9.1.16/CoBible-v9.1.16-macos.dmg",
+    "ios": "https://github.com/antkeepapp/cobible-releases/releases/download/v9.1.10/CoBible-v9.1.10-ios.ipa"
   },
   "download_url": "",
   "descriptions": {
